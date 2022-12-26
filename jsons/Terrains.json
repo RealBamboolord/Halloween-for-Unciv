@@ -1,6 +1,7 @@
 [
+
 {
-		"name": "Xmas decoration 1",
+		"name": "Halloween candy 1",
 		"type": "TerrainFeature",
 		"food": 1,
                 "happiness": 2,
@@ -11,10 +12,10 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
+		"civilopediaText": [{"text":"This is some candy, ritually extorted from innocent seniors by Trick-or-Treaters."}]
 	},
 {
-		"name": "Xmas decoration 2",
+		"name": "Halloween candy 2",
 		"type": "TerrainFeature",
 		"food": 1,
                 "happiness": 2,
@@ -25,10 +26,10 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
+		"civilopediaText": [{"text":"This is some candy, ritually extorted from innocent seniors by Trick-or-Treaters."}]
 	},
 {
-		"name": "Xmas decoration 3",
+		"name": "Halloween candy 3",
 		"type": "TerrainFeature",
 		"food": 1,
                 "happiness": 2,
@@ -39,10 +40,10 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
+		"civilopediaText": [{"text":"This is some candy, ritually extorted from innocent seniors by Trick-or-Treaters."}]
 	},
 {
-		"name": "Xmas decoration 4",
+		"name": "Halloween candy 4",
 		"type": "TerrainFeature",
 		"food": 1,
                 "happiness": 2,
@@ -53,10 +54,10 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
+		"civilopediaText": [{"text":"This is some candy, ritually extorted from innocent seniors by Trick-or-Treaters."}]
 	},
 {
-		"name": "Xmas decoration 5",
+		"name": "Halloween candy 5",
 		"type": "TerrainFeature",
 		"food": 1,
                 "happiness": 2,
@@ -67,38 +68,10 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
+		"civilopediaText": [{"text":"This is some candy, ritually extorted from innocent seniors by Trick-or-Treaters."}]
 	},
 {
-		"name": "Xmas decoration 6",
-		"type": "TerrainFeature",
-		"food": 1,
-                "happiness": 2,
-                "faith": 1,
-		"movementCost": 1,
-		"unbuildable": true,
-		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow"],
-		"uniques": ["Rare feature",
-		            "[+1] to Fertility for Map Generation",
-					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
-	},
-{
-		"name": "Xmas decoration 7",
-		"type": "TerrainFeature",
-		"food": 1,
-                "happiness": 2,
-                "faith": 1,
-		"movementCost": 1,
-		"unbuildable": true,
-		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow"],
-		"uniques": ["Rare feature",
-		            "[+1] to Fertility for Map Generation",
-					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
-	}
-{
-		"name": "Xmas Tree",
+		"name": "Giant Pumpkin",
 		"type": "NaturalWonder",
 		"food": 9,
 		"happiness": 42,
@@ -108,7 +81,7 @@
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 1,
-                "civilopediaText": [{"text":"The traditions demand cutting down trees like this to mount them in a home."}]
+                "civilopediaText": [{"text":"Oh, a Halloween Pumpkin!"}]
 
 	},
 ]
